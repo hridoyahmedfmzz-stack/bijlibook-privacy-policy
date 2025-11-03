@@ -1,1 +1,93 @@
-# bijlibook-privacy-policy
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy for Bijli Book</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            color: #333;
+        }
+        h1, h2, h3 {
+            color: #222;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #0056b3;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy for Bijli Book</h1>
+    <p><strong>Last Updated:</strong> [Date of last update]</p>
+
+    <h2>Introduction</h2>
+    <p>Welcome to Bijli Book ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application, Bijli Book (the "App"). Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APP.</p>
+
+    <h2>Information We Collect</h2>
+    <p>We may collect information about you in a variety of ways. The information we may collect via the App includes:</p>
+    
+    <h3>Personal Data</h3>
+    <p>Personally identifiable information, such as your name, email address, and company name, that you voluntarily give to us when you register with the App.</p>
+
+    <h3>Usage Data</h3>
+    <p>Information that our servers automatically collect when you use the App, such as your bill calculation data (e.g., meter readings, units, amounts), which is stored to provide you with a history of your bills.</p>
+
+    <h3>Data from Third-Party Services</h3>
+    <p>We use third-party services that may collect information used to identify you:</p>
+    <ul>
+        <li><strong>Google Play Services & AdMob:</strong> Our app uses Google Play Services, including AdMob for serving advertisements. AdMob may collect and use data for ad personalization. For more information on how Google uses data, please see <a href="https://policies.google.com/technologies/ads">Google's Privacy & Terms</a>.</li>
+        <li><strong>Firebase:</strong> We use Firebase for user authentication (Email/Password) and for storing your data (Firestore). Firebase may collect certain data for analytics and to ensure service functionality. You can learn more by reviewing <a href="https://firebase.google.com/support/privacy">Firebase's Privacy and Security documentation</a>.</li>
+    </ul>
+    
+    <h2>How We Use Your Information</h2>
+    <p>Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the App to:</p>
+    <ul>
+        <li>Create and manage your account.</li>
+        <li>Provide the core functionality of the App, such as calculating and saving your electricity bills.</li>
+        <li>Display your bill history.</li>
+        <li>Show relevant advertisements to you through Google AdMob.</li>
+        <li>Monitor and analyze usage and trends to improve your experience with the App.</li>
+    </ul>
+
+    <h2>Disclosure of Your Information</h2>
+    <p>We do not share your personally identifiable information with third parties except as described in this Privacy Policy. We may share information we have collected about you in certain situations:</p>
+    <ul>
+        <li><strong>With Service Providers:</strong> We may share your information with third-party vendors and service providers that perform services for us (like Google for ads and database management).</li>
+        <li><strong>By Law or to Protect Rights:</strong> If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law.</li>
+    </ul>
+
+    <h2>Security of Your Information</h2>
+    <p>We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse.</p>
+
+    <h2>Data Retention</h2>
+    <p>We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>This App is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at <a href="mailto:bijlibook0@gmail.com">bijlibook0@gmail.com</a>.</p>
+
+</body>
+</html>
